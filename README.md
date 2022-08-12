@@ -17,3 +17,7 @@ This can be edited to be more descriptive
 
 
 Some more changes I am makin from my main pc :) 
+
+
+## Local Development
+1. open index.html in your browser
